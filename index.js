@@ -1,3 +1,8 @@
 function add(a, b) {
-  return a + n
+  return a + b
+}
+
+function subtract(a. b) {
+  
+  
 }
